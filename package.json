@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "create": "node creating50Files.js",
-	"delate": "node delFiles.js",
+	"delete": "node delFiles.js",
 	"append": "node append.js",
 	"getDir": "node getDir.js ./fs_test_directo"
   },
